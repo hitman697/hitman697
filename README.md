@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hitman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Hitman
+- 👀 I’m interested in Task
+- 🌱 I’m currently learning best Hunter
+- 💞️ I’m looking to collaborate on Mission
+- 📫 How to reach me You will know when you need to know
 
 <!---
-jasusjagga45/jasusjagga45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hitman697/hitman697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
