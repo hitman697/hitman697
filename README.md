@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hitman
 - 👀 I’m interested in Tasks
 - 🌱 I’m currently learning to be the best Hunter
-- 💞️ I’m looking to collaborate on Mission
-- 📫 How to reach me You will know when you need to know
+- 💞️ I’m looking to collaborate on Missions
+- 📫 How to reach me "You will know when you need to know"
 
 <!---
 hitman697/hitman697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
