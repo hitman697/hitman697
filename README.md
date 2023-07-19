@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hitman
-- 👀 I’m interested in Task
+- 👀 I’m interested in Tasks
 - 🌱 I’m currently learning best Hunter
 - 💞️ I’m looking to collaborate on Mission
 - 📫 How to reach me You will know when you need to know
